@@ -1,6 +1,6 @@
 # Backend Приложение с топ стэком для микросервесной архитектуры
 ## Микросервис - Proto-common
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/BornToNight/proto-common/blob/proto-common/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/BornToNight/proto-common/blob/main/README.md)
 
 Цель проекта - потренироваться с самым популярным стэком для Java/Kotlin разработчика (ИМХО).
 
